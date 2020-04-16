@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -8,6 +8,9 @@
     <PackageProjectUrl>https://github.com/dgtl-llc/NetworkBlLibs</PackageProjectUrl>
     <PackageTags>networkbl</PackageTags>
     <PackageId>DGTL.NetworkBlTypes.Models</PackageId>
+    <Version>1.0.1</Version>
+    <Description>Shared Models between server and client.</Description>
+    <RepositoryUrl>https://github.com/dgtl-llc/NetworkBlLibs</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
