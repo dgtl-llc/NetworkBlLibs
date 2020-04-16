@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkBlTypes", "NetworkBlTypes\NetworkBlTypes.csproj", "{188DC0B4-AB84-4684-96C7-E78C47E3B020}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AE360F76-5389-4188-A522-54A7D86F7503}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkBlTypes", "src\NetworkBlTypes\NetworkBlTypes.csproj", "{8FE9FD63-49D7-42E7-9C6E-896EE03F7724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{188DC0B4-AB84-4684-96C7-E78C47E3B020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{188DC0B4-AB84-4684-96C7-E78C47E3B020}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{188DC0B4-AB84-4684-96C7-E78C47E3B020}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{188DC0B4-AB84-4684-96C7-E78C47E3B020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE9FD63-49D7-42E7-9C6E-896EE03F7724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE9FD63-49D7-42E7-9C6E-896EE03F7724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE9FD63-49D7-42E7-9C6E-896EE03F7724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE9FD63-49D7-42E7-9C6E-896EE03F7724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{188DC0B4-AB84-4684-96C7-E78C47E3B020} = {AE360F76-5389-4188-A522-54A7D86F7503}
+		{8FE9FD63-49D7-42E7-9C6E-896EE03F7724} = {AE360F76-5389-4188-A522-54A7D86F7503}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6CC1574-6382-45B0-87EF-7E673A506D78}
