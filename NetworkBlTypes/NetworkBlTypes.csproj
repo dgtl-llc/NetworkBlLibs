@@ -3,8 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Company>DGTL Technologies LLC</Company>
-    <Authors>DGTL Technologies LLC</Authors>
+    <Authors>Dmitriy Scherbakov</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/dgtl-llc/NetworkBlLibs</PackageProjectUrl>
     <PackageTags>networkbl</PackageTags>
     <PackageId>DGTL.NetworkBlTypes.Models</PackageId>
   </PropertyGroup>
